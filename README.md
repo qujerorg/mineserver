@@ -1,0 +1,2 @@
+# mineserver
+Minecraft server list
